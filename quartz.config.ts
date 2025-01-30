@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "ru-RU",
+    locale: "en-US",
     baseUrl: "https://gustxxl.github.io/quartz/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
