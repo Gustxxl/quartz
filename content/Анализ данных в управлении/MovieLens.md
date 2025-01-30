@@ -1,6 +1,4 @@
-#### Анализ данных MovieLens
-
-##### Загрузка и распаковка архива [ml-32m.zip](https://files.grouplens.org/datasets/movielens/ml-32m.zip) в проект.
+#### Загрузка и распаковка архива [ml-32m.zip](https://files.grouplens.org/datasets/movielens/ml-32m.zip) в дирикторию проекта.
    ![[Screenshot 2025-01-30 at 11.03.42.png]]
    
 #### Скрипты
