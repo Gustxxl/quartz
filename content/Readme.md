@@ -1,1 +1,1 @@
-Hello, i'm [Gustxxl](GustxxlCookingUp.t.me)
+Hello, i’m Balabaev Vladislav
