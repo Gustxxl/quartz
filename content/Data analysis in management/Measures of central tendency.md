@@ -1,9 +1,11 @@
+# Меры центральной тенденции
 ### Демонтрация работы скрипта
 
 ![[Pasted image 20250130150646.png]]
 Вывод:
 ![[Pasted image 20250130150832.png]]
 
+___
 ### Разбор кода
 ### **1. Импорт библиотек**
 ```python
@@ -14,7 +16,6 @@ from scipy import stats
 - **`scipy.stats`** — модуль для статистического анализа, включая вычисление моды.
 
 ---
-
 ### **2. Загрузка данных**
 ```python
 file_path = "/Users/vladislavbalabaev/XXL/Code/learning/datasets/numbers.csv"
