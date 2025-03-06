@@ -6,4 +6,6 @@
 1. [[Llama 3 8B]]
 2. [[ruGPT-3.5 13B]]
 3. [[Vikhr]]
-
+4. [[Mistral 7B]]
+5. [[Qwen 7B]]
+6. [[YandexGPT-5-Lite-Pretrain]]

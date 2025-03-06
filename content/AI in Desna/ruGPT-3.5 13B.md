@@ -44,3 +44,4 @@ ruGPT-3.5 13B — это крупная языковая модель, разр�
 Ключевые цитирования
 
 [ai-forever/ruGPT-3.5-13B на Hugging Face](https://huggingface.co/ai-forever/ruGPT-3.5-13B)
+[Дообучение ruGPT-3.5 13B с LoRA](https://habr.com/ru/articles/766096/)
