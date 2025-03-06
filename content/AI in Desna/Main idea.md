@@ -10,5 +10,8 @@
 5. [[Qwen 7B]]
 6. [[YandexGPT-5-Lite-Pretrain]]
 
-### Итоги:
+### Сравнение и анализ:
 [[Comparison & analysis]]
+
+### Выбор модели:
+[[Model Selection]]
