@@ -56,3 +56,4 @@ Vikhr — это передовая открытая инструкционна�
 - [GitHub - vlarine/transformers-ru: A list of pretrained Transformer models for the Russian language](https://github.com/vlarine/transformers-ru)
 - [bartowski/Vikhr-Gemma-2B-instruct-GGUF · Hugging Face](https://huggingface.co/bartowski/Vikhr-Gemma-2B-instruct-GGUF)
 - [yargpt/Vikhr-7b-0.1-GGUF · Hugging Face](https://huggingface.co/yargpt/Vikhr-7b-0.1-GGUF)
+- [Их официальная телега](https://t.me/vikhrlabs)
