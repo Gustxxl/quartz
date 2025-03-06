@@ -9,3 +9,6 @@
 4. [[Mistral 7B]]
 5. [[Qwen 7B]]
 6. [[YandexGPT-5-Lite-Pretrain]]
+
+### Итоги:
+[[Comparison & analysis]]
